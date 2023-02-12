@@ -1,0 +1,9 @@
+/** NotFound: Shows not found page */
+
+function NotFound(){
+  return (
+    <h1>Not found</h1>
+  )
+}
+
+export default NotFound
