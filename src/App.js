@@ -155,7 +155,7 @@ function App() {
     setUser((prev) => ({
       ...prev,
       data: {
-        ...data,
+        ...prev.data,
         imageUrl: res.imageUrl
       }
     }));
