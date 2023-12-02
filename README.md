@@ -1,7 +1,7 @@
 # Friender (React Frontend)
 A Tinder clone full-stack app rebranded as a Friend finding app that allows for matching with potential friends in your preferred radius.
 
-- Live demo: [Friender](https://friendliest.surge.sh/)
+- Live demo: [Friender](https://frontend-friender.vercel.app/)
 - Backend: [Flask Repo](https://github.com/dia-nguyen/backend-friender)
 
 ![image](https://user-images.githubusercontent.com/40869031/227044110-ee33cb03-f4a0-4460-a5d8-76ab7ed3df05.png)
